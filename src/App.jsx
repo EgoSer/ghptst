@@ -142,7 +142,7 @@ export default function App() {
 
       <main className="app-content">
         <section className="hero">
-          <h1>Welcome to Your New React Project!</h1>
+          <h1>I luv you ur mah shipelka!</h1>
           <p>This is a clean, minimal boilerplate starter template.</p>
         </section>
 
